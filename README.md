@@ -1,6 +1,6 @@
 ### Problem Statement
 
-This dashboard helps the sales person visualize reports that effectively communicate sales performance and trends. It helps them know the Profit made and compare profit for current year with profit for the prevoius year. Through charts, they get to know the most product sold and compare with sales for previous year . It also lets them know the top cities that made sales in a particular time. They can also see customers who made sales and compare their sales with the previous sales made.All the visual can be filterred by either months, years, city,products and/or channels.
+This dashboard helps the sales person visualize reports that effectively communicate sales performance and trends. It helps them know the Profit made and compare profit for current year with profit for the prevoius year. Through charts, they get to know the most product sold and compare with sales for previous year . It also lets them know the top cities that made sales in a particular time. They can also see customers who made sales and compare their sales with the previous sales made.All the visual can be filtered by either months, years, city,products and/or channels.
 
 
 
